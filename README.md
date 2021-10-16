@@ -22,3 +22,5 @@ ns run android --no-hmr
 # Build for production
 ns build android
 ```
+# Screenshot
+<img width="480" alt="java 8 and prio java 8  array review example" src="https://github.com/zerofinding/nativescript-vue-starter-tailwindcss-ns8-myim3/blob/main/ss-ns8vue.png">
