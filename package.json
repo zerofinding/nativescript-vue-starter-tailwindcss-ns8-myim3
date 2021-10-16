@@ -1,0 +1,22 @@
+{
+  "name": "ns8im3vue",
+  "version": "0.0.1",
+  "description": "A NativeScript project (vue-tailwindcss)",
+  "author": "zerofinding <zerofinding.dev@gmail.com>",
+  "main": "app/app.js",
+  "private": true,
+  "dependencies": {
+    "@nativescript/core": "~8.1.1",
+    "@nativescript/tailwind": "^1.0.0-rc.1",
+    "@nativescript/theme": "~3.0.1",
+    "nativescript-carousel": "^7.0.1",
+    "nativescript-vue": "~2.9.0",
+    "tailwindcss": "^2.2.17"
+  },
+  "devDependencies": {
+    "@nativescript/android": "8.1.1",
+    "@nativescript/webpack": "~5.0.0",
+    "file-loader": "^6.2.0",
+    "nativescript-vue-template-compiler": "~2.9.0"
+  }
+}
